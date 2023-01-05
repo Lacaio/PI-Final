@@ -1,0 +1,9 @@
+--Circuito com uma fonte DC--
+R Resistencia_6 c f 100
+V Fonte_1 a b 5
+R Resistencia_1 b c 1000
+R Resistencia_2 a d 1000
+R Resistencia_5 a e 100
+R Resistencia_3 c d 100
+R Resistencia_4 e f 1000
+.END
